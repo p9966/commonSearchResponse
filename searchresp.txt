@@ -1,0 +1,4342 @@
+{
+    "NavigationList": [],
+    "PropertyList": [
+        {
+            "Name": "GPU",
+            "NValue": 600007299,
+            "ShowCount": 6,
+            "HasMore": true,
+            "IsCollapsed": false,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "GeForce RTX 30 Series",
+                    "NValue": 601357282,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "GeForce RTX 3050",
+                            "NValue": 601399335,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "GeForce RTX 3060",
+                            "NValue": 601361654,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "GeForce RTX 3060 Ti",
+                            "NValue": 601359415,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "GeForce RTX 3070",
+                            "NValue": 601357250,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "GeForce RTX 3080",
+                            "NValue": 601357247,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "GeForce RTX 3090",
+                            "NValue": 601357248,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "GeForce RTX 3090 Ti",
+                            "NValue": 601399539,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "GeForce RTX 3080 Ti",
+                            "NValue": 601385735,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "GeForce RTX 3070 Ti",
+                            "NValue": 601386504,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        }
+                    ],
+                    "Selected": true
+                },
+                {
+                    "Name": "GeForce RTX 20 Series",
+                    "NValue": 601321572,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "GeForce RTX 2060",
+                            "NValue": 601327179,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "GeForce RTX 2060 SUPER",
+                            "NValue": 601341616,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "Radeon RX 6000 Series",
+                    "NValue": 601359511,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "Radeon RX 6400",
+                            "NValue": 601401722,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6500 XT",
+                            "NValue": 601399313,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6600",
+                            "NValue": 601394871,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6600 XT",
+                            "NValue": 601388251,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6650 XT",
+                            "NValue": 601403620,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6700 XT",
+                            "NValue": 601362404,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6750 XT",
+                            "NValue": 601403422,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6800",
+                            "NValue": 601359427,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6800 XT",
+                            "NValue": 601359422,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6900 XT",
+                            "NValue": 601359957,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        },
+                        {
+                            "Name": "Radeon RX 6950 XT",
+                            "NValue": 601403917,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": true
+                        }
+                    ],
+                    "Selected": true
+                },
+                {
+                    "Name": "GeForce GTX 16 Series",
+                    "NValue": 601331379,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "GeForce GTX 1650",
+                            "NValue": 601332298,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "GeForce GTX 1660",
+                            "NValue": 601330988,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "GeForce GTX 1660 SUPER",
+                            "NValue": 601346498,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "GeForce GTX 1660 Ti",
+                            "NValue": 601329884,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "GeForce GTX 10 Series",
+                    "NValue": 601201888,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "GeForce GTX 1050 Ti",
+                            "NValue": 601273503,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "Radeon RX 500 Series",
+                    "NValue": 601296707,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "Radeon RX 550",
+                            "NValue": 601296396,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "Radeon HD 7000 series",
+                    "NValue": 600286767,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "Radeon HD 7750",
+                            "NValue": 600298541,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "Radeon HD 6000 series",
+                    "NValue": 600083901,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "Radeon HD 6350",
+                            "NValue": 600298482,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "Radeon HD 6570",
+                            "NValue": 600144218,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "Radeon HD 5000 series",
+                    "NValue": 600007320,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "Radeon HD 5450",
+                            "NValue": 600007610,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "Radeon HD 5570",
+                            "NValue": 600007611,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "GeForce G/GT series",
+                    "NValue": 601355539,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "GeForce GT 730",
+                            "NValue": 600519936,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "GeForce others",
+                    "NValue": 600007306,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "GeForce 210",
+                            "NValue": 600007600,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "Radeon others",
+                    "NValue": 600007308,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "Radeon 5450",
+                            "NValue": 601189859,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Seller",
+            "NValue": 1000000000,
+            "ShowCount": 6,
+            "HasMore": true,
+            "IsCollapsed": false,
+            "IsPopupHideOption": true,
+            "Type": "Seller",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Newegg",
+                    "NValue": 8000,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": true
+                },
+                {
+                    "Name": "Yeston",
+                    "NValue": 1065908569,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "XFX Official Store",
+                    "NValue": 1065685067,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "ZOTAC",
+                    "NValue": 1065777066,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "PC Power Marketplace",
+                    "NValue": 1065807788,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "antonline",
+                    "NValue": 1065505271,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Vooyit",
+                    "NValue": 1065898486,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Micron Tech",
+                    "NValue": 1066498071,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "YunxiSupermarket",
+                    "NValue": 1065867248,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Sam Electronic Commerce",
+                    "NValue": 1065775283,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Hellowland",
+                    "NValue": 1065717171,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Corn Electronics",
+                    "NValue": 1065528269,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "favorite store",
+                    "NValue": 1066666649,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Frentosa Marketplace",
+                    "NValue": 1065896655,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Hongkong Store",
+                    "NValue": 1065867049,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "BTE Outlet",
+                    "NValue": 1065685472,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Annies Bear",
+                    "NValue": 1065887775,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "e-connect",
+                    "NValue": 1065855752,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "IPC Store",
+                    "NValue": 1065505386,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Deal Targets",
+                    "NValue": 1065708670,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Jinghui Technology",
+                    "NValue": 1065908280,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "ecmallonline",
+                    "NValue": 1065715582,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "VPCI",
+                    "NValue": 1065507056,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "AS Group LLC",
+                    "NValue": 1065777156,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Birdman Electronics",
+                    "NValue": 1066536767,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Availability",
+            "NValue": 4130,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": false,
+            "IsPopupHideOption": false,
+            "Type": "Stock",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "In Stock",
+                    "NValue": 4131,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": true
+                },
+                {
+                    "Name": "Sold Out",
+                    "NValue": 4132,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Memory Size",
+            "NValue": 600007770,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": false,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "24GB",
+                    "NValue": 601326002,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "16GB",
+                    "NValue": 601110192,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "12GB",
+                    "NValue": 600499109,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "10GB",
+                    "NValue": 601357261,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "8GB",
+                    "NValue": 600494828,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "4GB",
+                    "NValue": 600007787,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Manufacturer",
+            "NValue": 250,
+            "ShowCount": 6,
+            "HasMore": true,
+            "IsCollapsed": false,
+            "IsPopupHideOption": false,
+            "Type": "Brand",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "MSI",
+                    "NValue": 50001312,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "ASUS",
+                    "NValue": 50001315,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "EVGA",
+                    "NValue": 50001402,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "GIGABYTE",
+                    "NValue": 50001314,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Sapphire Tech",
+                    "NValue": 50001561,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "XFX",
+                    "NValue": 50001669,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "ZOTAC",
+                    "NValue": 50012150,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "ASRock",
+                    "NValue": 50001944,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "PowerColor",
+                    "NValue": 50001419,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "PNY Technologies, Inc.",
+                    "NValue": 50001471,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Condition",
+            "NValue": 4816,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": false,
+            "IsPopupHideOption": false,
+            "Type": "Condition",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "New",
+                    "NValue": 4814,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": true
+                },
+                {
+                    "Name": "Refurbished",
+                    "NValue": 4016,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Open Box",
+                    "NValue": 4809,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Price",
+            "NValue": 4015,
+            "ShowCount": 6,
+            "HasMore": true,
+            "IsCollapsed": false,
+            "IsPopupHideOption": false,
+            "Type": "Price",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "$100 - $200",
+                    "NValue": 4017,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "$200 - $300",
+                    "NValue": 4018,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "$300 - $400",
+                    "NValue": 4019,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "$400 - $500",
+                    "NValue": 4020,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "$500 - $750",
+                    "NValue": 4021,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "$750 - $1000",
+                    "NValue": 4022,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "$1000 - $1250",
+                    "NValue": 4023,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "$1250 - $1500",
+                    "NValue": 4084,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "$1500 - $2000",
+                    "NValue": 4085,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "$2000 - $2500",
+                    "NValue": 4086,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Current Promotion",
+            "NValue": 700000,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": false,
+            "IsPopupHideOption": false,
+            "Type": "Unknown",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Everyday Saving - Trending Deals",
+                    "NValue": 709447,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "RTX Studio",
+                    "NValue": 710462,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Chipset Manufacturer",
+            "NValue": 600030347,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "AMD",
+                    "NValue": 600100181,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "NVIDIA",
+                    "NValue": 600030348,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Cooler",
+            "NValue": 600029794,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Single Fan",
+                    "NValue": 601303640,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Double Fans",
+                    "NValue": 601303641,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Triple Fans",
+                    "NValue": 601303642,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Liquid Cooler",
+                    "NValue": 600029797,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Hybrid Cooler",
+                    "NValue": 601183677,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Max GPU Length",
+            "NValue": 601291959,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Over 290mm",
+                    "NValue": 601292088,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "340 mm",
+                            "NValue": 601360038,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "338 mm",
+                            "NValue": 601403135,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "335 mm",
+                            "NValue": 601357306,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "332 mm",
+                            "NValue": 601385383,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "331 mm",
+                            "NValue": 601402604,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "330 mm",
+                            "NValue": 601292694,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "327 mm",
+                            "NValue": 601321575,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "326 mm",
+                            "NValue": 601291965,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "325 mm",
+                            "NValue": 601292070,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "324 mm",
+                            "NValue": 601326358,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "323 mm",
+                            "NValue": 601357304,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "322 mm",
+                            "NValue": 601362421,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "320 mm",
+                            "NValue": 601298048,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "319 mm",
+                            "NValue": 601357590,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "318 mm",
+                            "NValue": 601357267,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "316 mm",
+                            "NValue": 601307798,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "313 mm",
+                            "NValue": 601385946,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "310 mm",
+                            "NValue": 601292757,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "305 mm",
+                            "NValue": 601291969,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "304 mm",
+                            "NValue": 601291971,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "303 mm",
+                            "NValue": 601292071,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "301 mm",
+                            "NValue": 601330935,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "300 mm",
+                            "NValue": 601291970,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "296 mm",
+                            "NValue": 601362062,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "295 mm",
+                            "NValue": 601298062,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "293 mm",
+                            "NValue": 601291972,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "337 mm",
+                            "NValue": 601399495,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "356 mm",
+                            "NValue": 601399674,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "353 mm",
+                            "NValue": 601400153,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "290 to 246mm",
+                    "NValue": 601292090,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "290 mm",
+                            "NValue": 601291975,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "286 mm",
+                            "NValue": 601343531,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "285 mm",
+                            "NValue": 601291974,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "283 mm",
+                            "NValue": 601301581,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "282 mm",
+                            "NValue": 601311128,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "281 mm",
+                            "NValue": 601292622,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "280 mm",
+                            "NValue": 601291979,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "279 mm",
+                            "NValue": 601291978,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "278 mm",
+                            "NValue": 601291984,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "275 mm",
+                            "NValue": 601292693,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "274 mm",
+                            "NValue": 601309509,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "270 mm",
+                            "NValue": 601292076,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "269 mm",
+                            "NValue": 601291988,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "260 mm",
+                            "NValue": 601311407,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "252 mm",
+                            "NValue": 601303829,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "250 mm",
+                            "NValue": 601291995,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "247 mm",
+                            "NValue": 601299681,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "245 to 201mm",
+                    "NValue": 601292089,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "243 mm",
+                            "NValue": 601291998,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "242 mm",
+                            "NValue": 601292003,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "241 mm",
+                            "NValue": 601291999,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "240 mm",
+                            "NValue": 601292591,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "238 mm",
+                            "NValue": 601297409,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "235 mm",
+                            "NValue": 601297366,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "232 mm",
+                            "NValue": 601295292,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "228 mm",
+                            "NValue": 601292000,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "213 mm",
+                            "NValue": 601292007,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "212 mm",
+                            "NValue": 601292220,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "202 mm",
+                            "NValue": 601333783,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "201 mm",
+                            "NValue": 601399679,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "200 to 170mm",
+                    "NValue": 601292087,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "200 mm",
+                            "NValue": 601355543,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "194 mm",
+                            "NValue": 601298239,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "193 mm",
+                            "NValue": 601292016,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "192 mm",
+                            "NValue": 601292015,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "182 mm",
+                            "NValue": 601296878,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "172 mm",
+                            "NValue": 601292024,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "170 mm",
+                            "NValue": 601292030,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "Shorter than 170mm",
+                    "NValue": 601292091,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "165 mm",
+                            "NValue": 601292078,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "162 mm",
+                            "NValue": 601292036,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "155 mm",
+                            "NValue": 601292830,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Memory Interface",
+            "NValue": 600007798,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "384-Bit",
+                    "NValue": 600007804,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "320-Bit",
+                    "NValue": 600007805,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "256-Bit",
+                    "NValue": 600007801,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "192-Bit",
+                    "NValue": 600007806,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "128-Bit",
+                    "NValue": 600007800,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "64-Bit",
+                    "NValue": 600007799,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Form Factor",
+            "NValue": 600038362,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "ATX",
+                    "NValue": 600554397,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "ITX",
+                    "NValue": 601349230,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Low Profile",
+                    "NValue": 600038363,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Virtual Reality Ready",
+            "NValue": 601183309,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Yes",
+                    "NValue": 601183313,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "DisplayPort",
+            "NValue": 600050348,
+            "ShowCount": 6,
+            "HasMore": true,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "1 x DisplayPort",
+                    "NValue": 600050349,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "1 x DisplayPort 1.4",
+                    "NValue": 601114340,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "1 x DisplayPort 1.4a",
+                    "NValue": 601114345,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "2 x DisplayPort",
+                    "NValue": 600050350,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "2 x DisplayPort 1.4",
+                    "NValue": 601203676,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "2 x DisplayPort 1.4a",
+                    "NValue": 601386768,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "3 x DisplayPort",
+                    "NValue": 600083706,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "3 x DisplayPort 1.4",
+                    "NValue": 601195631,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "3 x DisplayPort 1.4a",
+                    "NValue": 601386733,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "HDMI",
+            "NValue": 600031506,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "HDMI 2.1",
+                    "NValue": 601357281,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "1 x HDMI 2.1",
+                            "NValue": 601357266,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2 x HDMI 2.1",
+                            "NValue": 601357254,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "HDMI 1.0",
+                    "NValue": 601107670,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "1 x HDMI",
+                            "NValue": 600031507,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2 x HDMI",
+                            "NValue": 600106604,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "3 x HDMI",
+                            "NValue": 601292456,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Thunderbolt 3",
+            "NValue": 601331490,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Yes",
+                    "NValue": 601331497,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Core Clock",
+            "NValue": 600007618,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "1001 MHz - 1500 MHz",
+                    "NValue": 601405563,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "1320 MHz",
+                            "NValue": 601213413,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "1501 MHz - 2000 MHz",
+                    "NValue": 601405564,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "1626 MHz",
+                            "NValue": 601395043,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1695 MHz",
+                            "NValue": 601205172,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1710 MHz",
+                            "NValue": 601323387,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1740 MHz",
+                            "NValue": 601323388,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1755 MHz",
+                            "NValue": 601330692,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1770 MHz",
+                            "NValue": 601325839,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1775 MHz",
+                            "NValue": 601360406,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1785 MHz",
+                            "NValue": 601324079,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1815 MHz",
+                            "NValue": 601330691,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1825 MHz",
+                            "NValue": 601359758,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1830 MHz",
+                            "NValue": 601323057,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1845 MHz",
+                            "NValue": 601330690,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1850 MHz",
+                            "NValue": 601360146,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1860 MHz",
+                            "NValue": 601330981,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1875 MHz",
+                            "NValue": 601360521,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1890 MHz",
+                            "NValue": 601325295,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1923 MHz",
+                            "NValue": 601403508,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1925 MHz",
+                            "NValue": 601360034,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1950 MHz",
+                            "NValue": 601360998,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "2001 MHz - 2500 MHz",
+                    "NValue": 601405566,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "2125 MHz",
+                            "NValue": 601385382,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2150 MHz",
+                            "NValue": 601386730,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2190 MHz",
+                            "NValue": 601400682,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2321 MHz",
+                            "NValue": 601362450,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2330 MHz",
+                            "NValue": 601362519,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2457 MHz",
+                            "NValue": 601384204,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Memory Type",
+            "NValue": 600007790,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "GDDR6",
+                    "NValue": 601321494,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "GDDR6X",
+                    "NValue": 601357255,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "DirectX",
+            "NValue": 600007811,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "DirectX 12",
+                    "NValue": 600497128,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "DirectX 12 Ultimate",
+                    "NValue": 601360525,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Max Resolution",
+            "NValue": 600007860,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "7680 x 4320",
+                    "NValue": 601195647,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Multi-Monitor Support",
+            "NValue": 600539130,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "2",
+                    "NValue": 601306825,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "4",
+                    "NValue": 601306820,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "SLI Support",
+            "NValue": 600007869,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "2-Way SLI",
+                    "NValue": 600554398,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "No",
+                    "NValue": 600007871,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "SLI Ready",
+                    "NValue": 600007870,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "CUDA Cores",
+            "NValue": 600315660,
+            "ShowCount": 6,
+            "HasMore": true,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "2560",
+                    "NValue": 601195634,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "3584",
+                    "NValue": 601294833,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "4864",
+                    "NValue": 601359920,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "5888",
+                    "NValue": 601357253,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "6144",
+                    "NValue": 601386738,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "8704",
+                    "NValue": 601357249,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "10240",
+                    "NValue": 601386519,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "10496",
+                    "NValue": 601357251,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "10752",
+                    "NValue": 601402395,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "8960",
+                    "NValue": 601399430,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Boost Clock",
+            "NValue": 600315661,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "1501 MHz - 2000 MHz",
+                    "NValue": 601405572,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "1695 MHz",
+                            "NValue": 601303460,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1710 MHz",
+                            "NValue": 601321536,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1725 MHz",
+                            "NValue": 601323389,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1740 MHz",
+                            "NValue": 601323363,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1755 MHz",
+                            "NValue": 601322984,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1770 MHz",
+                            "NValue": 601323897,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1777 MHz",
+                            "NValue": 601361872,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1785 MHz",
+                            "NValue": 601327605,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1800 MHz",
+                            "NValue": 600566463,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1807 MHz",
+                            "NValue": 601361657,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1815 MHz",
+                            "NValue": 601323053,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1830 MHz",
+                            "NValue": 601322992,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1837 MHz",
+                            "NValue": 601361656,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1845 MHz",
+                            "NValue": 601322987,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1860 MHz",
+                            "NValue": 601202806,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1867 MHz",
+                            "NValue": 601386512,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1875 MHz",
+                            "NValue": 601331958,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1882 MHz",
+                            "NValue": 601362043,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1890 MHz",
+                            "NValue": 601323377,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1912 MHz",
+                            "NValue": 601387536,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1920 MHz",
+                            "NValue": 601402394,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1950 MHz",
+                            "NValue": 601403137,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "2001 MHz - 2500 MHz",
+                    "NValue": 601405571,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "2155 MHz",
+                            "NValue": 601360043,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2170 MHz",
+                            "NValue": 601360173,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2190 MHz",
+                            "NValue": 601359961,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2250 MHz",
+                            "NValue": 601359421,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2285 MHz",
+                            "NValue": 601360042,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2310 MHz",
+                            "NValue": 601359960,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2321 MHz",
+                            "NValue": 601403506,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2335 MHz",
+                            "NValue": 601399532,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2340 MHz",
+                            "NValue": 601360150,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2365 MHz",
+                            "NValue": 601360832,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2390 MHz",
+                            "NValue": 601400683,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2475 MHz",
+                            "NValue": 601385384,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2491 MHz",
+                            "NValue": 601395044,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2495 MHz",
+                            "NValue": 601386729,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "Above 2500 MHz",
+                    "NValue": 601405570,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "2525 MHz",
+                            "NValue": 601385216,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2581 MHz",
+                            "NValue": 601362449,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2607 MHz",
+                            "NValue": 601388382,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2615 MHz",
+                            "NValue": 601362518,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2620 MHz",
+                            "NValue": 601384888,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2622 MHz",
+                            "NValue": 601362451,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2635 MHz",
+                            "NValue": 601404134,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2638 MHz",
+                            "NValue": 601404426,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2689 MHz",
+                            "NValue": 601404128,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2694 MHz",
+                            "NValue": 601404127,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2815 MHz",
+                            "NValue": 601399400,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2820 MHz",
+                            "NValue": 601399399,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "2825 MHz",
+                            "NValue": 601399423,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Stream Processors",
+            "NValue": 600035043,
+            "ShowCount": 6,
+            "HasMore": true,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "768 Stream Processors",
+                    "NValue": 600486246,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "1024 Stream Processors",
+                    "NValue": 600311195,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "1792 Stream Processors",
+                    "NValue": 600290139,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "2048 Stream Processors",
+                    "NValue": 600287042,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "2560 Stream Processors",
+                    "NValue": 600479485,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "3840 Stream Processors",
+                    "NValue": 601328403,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "4608 Stream Processors",
+                    "NValue": 601359420,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "5120 Stream Processors",
+                    "NValue": 601113593,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Slot Width",
+            "NValue": 600419827,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Single Slot",
+                    "NValue": 600419828,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Dual Slot",
+                    "NValue": 600419829,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Triple Slot",
+                    "NValue": 600477200,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Quad Slot",
+                    "NValue": 601358813,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "CrossFireX Support",
+            "NValue": 600036707,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Yes",
+                    "NValue": 600036708,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Recommended PSU Wattage",
+            "NValue": 601386841,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "Property",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Less than 500W",
+                    "NValue": 601405569,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "350W",
+                            "NValue": 601386912,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "400W",
+                            "NValue": 601386934,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "450W",
+                            "NValue": 601386910,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "500W",
+                            "NValue": 601386919,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "501W - 750W",
+                    "NValue": 601405574,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "550W",
+                            "NValue": 601386909,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "600W",
+                            "NValue": 601386918,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "650W",
+                            "NValue": 601386908,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "700W",
+                            "NValue": 601386914,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "751W - 1000W",
+                    "NValue": 601405568,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "750W",
+                            "NValue": 601386916,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "800W",
+                            "NValue": 601386915,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "850W",
+                            "NValue": 601386907,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "900W",
+                            "NValue": 601386906,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "1000W",
+                            "NValue": 601386911,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Useful Links",
+            "NValue": 4800,
+            "ShowCount": 6,
+            "HasMore": true,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "UsefulLinks",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "Shipped by Newegg",
+                    "NValue": 4841,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Cryptocurrency Payment Accepted",
+                    "NValue": 4842,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Lowest Price In 30 Days",
+                    "NValue": 4843,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Warranty",
+                    "NValue": 4827,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [
+                        {
+                            "Name": "1 - 3 Years",
+                            "NValue": 4829,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        },
+                        {
+                            "Name": "3 - 5 Years",
+                            "NValue": 4830,
+                            "Count": 0,
+                            "StoreId": -1,
+                            "StoreType": -1,
+                            "ValueId": 0,
+                            "Children": [],
+                            "Selected": false
+                        }
+                    ],
+                    "Selected": false
+                },
+                {
+                    "Name": "Free Shipping",
+                    "NValue": 4808,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Top Sellers",
+                    "NValue": 4802,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Discount Item",
+                    "NValue": 4803,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Mail-in Rebate",
+                    "NValue": 4801,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Clearance Item",
+                    "NValue": 4810,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "Combo Deals",
+                    "NValue": 4812,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        },
+        {
+            "Name": "Customer Ratings",
+            "NValue": 4110,
+            "ShowCount": 6,
+            "HasMore": false,
+            "IsCollapsed": true,
+            "IsPopupHideOption": false,
+            "Type": "CustomerRatings",
+            "WHIProperty": null,
+            "Children": [
+                {
+                    "Name": "5/5 eggs",
+                    "NValue": 4115,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "4/5 eggs",
+                    "NValue": 4114,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                },
+                {
+                    "Name": "3/5 eggs",
+                    "NValue": 4113,
+                    "Count": 0,
+                    "StoreId": -1,
+                    "StoreType": -1,
+                    "ValueId": 0,
+                    "Children": [],
+                    "Selected": false
+                }
+            ]
+        }
+    ],
+    "ToolBar": [
+        {
+            "Name": "Newegg",
+            "NValue": 8000,
+            "GroupName": "Seller",
+            "GroupId": 1000000000,
+            "FilterType": 1,
+            "Type": "Seller",
+            "WhiProperty": null,
+            "ValueId": 0
+        },
+        {
+            "Name": "In Stock",
+            "NValue": 4131,
+            "GroupName": "Availability",
+            "GroupId": 4130,
+            "FilterType": 1,
+            "Type": "Stock",
+            "WhiProperty": null,
+            "ValueId": 0
+        },
+        {
+            "Name": "GeForce RTX 30 Series",
+            "NValue": 601357282,
+            "GroupName": "GPU",
+            "GroupId": 600007299,
+            "FilterType": 1,
+            "Type": "Property",
+            "WhiProperty": null,
+            "ValueId": 0
+        },
+        {
+            "Name": "Radeon RX 6000 Series",
+            "NValue": 601359511,
+            "GroupName": "GPU",
+            "GroupId": 600007299,
+            "FilterType": 1,
+            "Type": "Property",
+            "WhiProperty": null,
+            "ValueId": 0
+        },
+        {
+            "Name": "New",
+            "NValue": 4814,
+            "GroupName": "Condition",
+            "GroupId": 4816,
+            "FilterType": 1,
+            "Type": "Condition",
+            "WhiProperty": null,
+            "ValueId": 0
+        }
+    ],
+    "TopSubCategory": null,
+    "Breadcrumbs": [
+        {
+            "Name": "Components",
+            "NValue": 100006519,
+            "DepaId": -1,
+            "StoreId": 1,
+            "StoreType": 4,
+            "Tid": 6519,
+            "IsDefault": false
+        },
+        {
+            "Name": "Video Cards & Video Devices",
+            "NValue": 100006662,
+            "DepaId": -1,
+            "StoreId": 38,
+            "StoreType": 1,
+            "Tid": 6662,
+            "IsDefault": false
+        },
+        {
+            "Name": "Desktop Graphics Cards",
+            "NValue": 100007709,
+            "DepaId": -1,
+            "StoreId": 48,
+            "StoreType": 2,
+            "Tid": 7709,
+            "IsDefault": false
+        }
+    ],
+    "SortOption": [
+        {
+            "ElementValue": 0,
+            "Priority": 1,
+            "Name": "Featured Items",
+            "IsDisplay": false
+        },
+        {
+            "ElementValue": 1,
+            "Priority": 2,
+            "Name": "Lowest Price",
+            "IsDisplay": false
+        },
+        {
+            "ElementValue": 2,
+            "Priority": 3,
+            "Name": "Highest Price",
+            "IsDisplay": false
+        },
+        {
+            "ElementValue": 3,
+            "Priority": 4,
+            "Name": "Best Selling",
+            "IsDisplay": false
+        },
+        {
+            "ElementValue": 4,
+            "Priority": 5,
+            "Name": "Best Rating",
+            "IsDisplay": false
+        },
+        {
+            "ElementValue": 5,
+            "Priority": 6,
+            "Name": "Most Reviews",
+            "IsDisplay": false
+        }
+    ],
+    "Products": [
+        {
+            "IsCombo": false,
+            "SponsoredMsg": null,
+            "GroupItemCount": 28,
+            "GroupM2CManufacturerCodes": [
+                "211369",
+                "120625",
+                "162560",
+                "212484",
+                "208043",
+                "215253",
+                "203560",
+                "207761"
+            ],
+            "DynamicGroupCount": 1,
+            "RefurbishItemCount": 0,
+            "NewItemCount": 0,
+            "UsedItemCount": 0,
+            "SellerCount": 1,
+            "UsedLowestPrice": 0.0,
+            "ProductNumber": "14-126-512",
+            "AutoPartsItemPosition": null,
+            "AutoPartsItemQualification": null,
+            "ItemBadges": null,
+            "DeliveryDayLevel": [
+                "1",
+                "3"
+            ],
+            "ItemCell": {
+                "Item": "14-126-512",
+                "UnitCost": 699.99,
+                "FinalPrice": 699.99,
+                "Active": "1",
+                "IsActivated": true,
+                "NewImage": {
+                    "ImageNameList": "14-126-512-V27.jpg,14-126-512-V90.jpg,14-126-512-V35.jpg,14-126-512-V31.jpg,14-126-512-V34.jpg,14-126-512-V26.jpg,14-126-512-V81.jpg,14-126-512-V36.jpg,14-126-512-V33.jpg,14-126-512-V32.jpg,14-126-512-V30.jpg,14-126-512-V29.jpg,14-126-512-V28.jpg",
+                    "ImageName": "14-126-512-V27.jpg",
+                    "DFIS360ImgFlag": null
+                },
+                "Image": {
+                    "HasScene7Image": false,
+                    "ImageInternalCount": 2,
+                    "WaterMarkFlag": "0",
+                    "ImageType": 0,
+                    "IsDFISImage": true,
+                    "HasWaterMark": true,
+                    "Normal": {
+                        "ImageNameList": "14-126-512-V27.jpg,14-126-512-V90.jpg,14-126-512-V35.jpg,14-126-512-V31.jpg,14-126-512-V34.jpg,14-126-512-V26.jpg,14-126-512-V81.jpg,14-126-512-V36.jpg,14-126-512-V33.jpg,14-126-512-V32.jpg,14-126-512-V30.jpg,14-126-512-V29.jpg,14-126-512-V28.jpg",
+                        "ImageName": "14-126-512-V27.jpg",
+                        "DFIS360ImgFlag": null
+                    },
+                    "Scene7": {
+                        "ImageName": null,
+                        "ImageSetName": null,
+                        "ImageSetImageList": null,
+                        "SpinSetName": null,
+                        "SpinSetImageList": null,
+                        "ThumbnailSetName": null,
+                        "ThumbnailSetImageList": null,
+                        "VendorSetImageList": null,
+                        "SpecialImageList": null
+                    },
+                    "ItemCellImageName": "14-126-512-V27.jpg",
+                    "ImagePathPattern": [
+                        {
+                            "Size": -1,
+                            "PathPattern": "http://c1.neweggimages.com/NeweggImage/ProductImageCompressAll{Size}/{ImageName}"
+                        },
+                        {
+                            "Size": 35,
+                            "PathPattern": "http://c1.neweggimages.com/ProductImageCompressAll{Size}/{ImageName}"
+                        },
+                        {
+                            "Size": 60,
+                            "PathPattern": "http://c1.neweggimages.com/ProductImageCompressAll/{ImageName}"
+                        },
+                        {
+                            "Size": 100,
+                            "PathPattern": "http://c1.neweggimages.com/ProductImageCompressAll{Size}/{ImageName}"
+                        },
+                        {
+                            "Size": 180,
+                            "PathPattern": "http://c1.neweggimages.com/NeweggImage/ProductImageCompressAll200/{ImageName}"
+                        },
+                        {
+                            "Size": 1280,
+                            "PathPattern": "http://c1.neweggimages.com/ProductImageOriginal/{ImageName}"
+                        }
+                    ]
+                },
+                "Description": {
+                    "Title": "ASUS TUF Gaming GeForce RTX 3070 Ti Video Card TUF-RTX3070TI-O8G-GAMING",
+                    "IMDescription": "VGA ASUS|TUF-RTX3070TI-O8G-GAMING R",
+                    "BulletDescription": "8GB 256-Bit GDDR6X \nOC mode: 1815MHz (Boost Clock)\nGaming mode: 1785 MHz (Boost Clock)\n2 x HDMI 3 x DisplayPort 1.4a \n6144 CUDA Cores \nPCI Express 4.0 x16",
+                    "LineDescription": "ASUS TUF Gaming GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 Video Card TUF-RTX3070TI-O8G-GAMING",
+                    "WebDescription": "ASUS TUF Gaming GeForce RTX 3070 Ti 8GB GDDR6X PCI Express 4.0 Video Card TUF-RTX3070TI-O8G-GAMING",
+                    "LongDescription": null,
+                    "UrlKeywords": "asus-geforce-rtx-3070-ti-tuf-rtx3070ti-o8g-gaming",
+                    "ShortTitle": "ASUS TUF-RTX3070TI-O8G-GAMING TUF Gaming GeForce RTX 3070 Ti Video Card",
+                    "WHIDescription": null,
+                    "ProductName": "ASUS TUF Gaming GeForce RTX 3070 Ti 8GB",
+                    "ManualProductName": "ASUS TUF Gaming GeForce RTX 3070 Ti 8GB"
+                },
+                "PreorderType": 0,
+                "PromotionInfo": {
+                    "PromotionText": null,
+                    "DisplayPromotionText": "",
+                    "PromotionLink": null,
+                    "PromotionLinkOpenType": null,
+                    "PCode": "",
+                    "PCodeType": 0,
+                    "PCodeValue": 0.0
+                },
+                "Instock": true,
+                "PremierMark": null,
+                "OwnerCost": 0.00,
+                "CanPreLaunch": false,
+                "AddToCartType": 0,
+                "MapPrice": 0,
+                "ParentItem": null,
+                "IsBlockSeller": false,
+                "Feature": {
+                    "IsAIT": false,
+                    "IsRestricted": false,
+                    "IsPremier": false,
+                    "IsFirstFromAsia": false,
+                    "IsInPMCC": false,
+                    "IsHot": false,
+                    "IsFreshDeal": false,
+                    "HasManufacturerWarranty": false,
+                    "ShipByNewegg": true,
+                    "ShowOEMRetail": true,
+                    "ShowOEM": false,
+                    "USPSMark": true,
+                    "ShopRunnerMark": null,
+                    "HasIntelligence": false,
+                    "IsNew": true,
+                    "IsRefurbished": false,
+                    "IsOpenBoxed": false,
+                    "ProductType": 1,
+                    "IsPreLaunch": false,
+                    "ABSMinimum": false,
+                    "IsGiftCard": false,
+                    "IsFlower": false,
+                    "IsPCBuilderReserveItem": false
+                },
+                "MailinRebateCollection": null,
+                "SaleEndTimeText": null,
+                "Download": {
+                    "DownloadType": 0,
+                    "BoxItem": null,
+                    "SFItem": null
+                },
+                "Type": 0,
+                "Subcategory": {
+                    "SubcategoryId": 48,
+                    "PatchCount": 0,
+                    "SubcategoryDescription": "Desktop Graphics Cards",
+                    "RealSubCategoryId": 48,
+                    "RealSubCategoryDescription": "Desktop Graphics Cards"
+                },
+                "ItemManufactory": {
+                    "BrandId": 1315,
+                    "Code": 0,
+                    "Manufactory": "ASUS",
+                    "CountryOfMfr": null,
+                    "ManfactoryLogo": 1,
+                    "ManufactoryWeb": null,
+                    "Hyperlink": null,
+                    "CustomerServicePhone": null,
+                    "IsM2C": false
+                },
+                "MaxQty4Promo": 999999,
+                "ItemTime": {
+                    "StartTime": "2022-06-01 00:00:00.000-07:00",
+                    "ConvertTime": "2022-06-01 00:00:00.000-07:00",
+                    "ReleaseTime": "2022-07-20 00:00:00.000-07:00",
+                    "ETATime": "2022-06-17 00:00:00.000-07:00"
+                },
+                "ConvertCompleteFlag": "1",
+                "NTCItemMark": false,
+                "OEMMark": "false",
+                "InstantRebateAmount": 0.0,
+                "Review": {
+                    "Rating": 5,https://github.com/p9966/commonSearchResponse
+                    "HumanRating": 164,
+                    "CombineGroup": 2,
+                    "ReviewSign": "",
+                    "ReviewSignValue": null,
+                    "ViewCount": 0,
+                    "ItemAsDescribedRate": null,
+                    "DeliverdOnTimeRate": null,
+                    "SatisfiedServiiceRate": null,
+                    "PositiveReviewRate": null,
+                    "ImageVideoReviews": 28,
+                    "RatingOneDecimal": 4.6
+                },
+                "Financing": {
+                    "TranCode": null,
+                    "StartDate": null,
+                    "EndDate": null,
+                    "Months": 0,
+                    "PayTermType": null
+                },
+                "RankInfo": {
+                    "ParentItem": null,
+                    "ItemNumber": "14-126-512",
+                    "WarehouseProcessScore": 0.0,
+                    "MerchantMetricsScore": 0.9938,
+                    "OrderPendingFastestDays": 0,
+                    "OrderPendingSlowestDays": 0,
+                    "FastestDays": 0,
+                    "SlowestDays": 0,
+                    "EggPointRate": 0.0,
+                    "ShippingMethodFastest": 3,
+                    "ShippingMethodSlowest": 7,
+                    "TierEggpointRate": 0.0,
+                    "InnerEggPercentPoints": null
+                },
+                "Seller": {
+                    "SellerId": "",
+                    "SellerName": null,
+                    "SellerLogoURL": null,
+                    "SellerRating": null,
+                    "SellerReviewCount": null,
+                    "SellerUrlKey": null,
+                    "SellerModel": null,
+                    "TopRated": false,
+                    "LifetimeOrderCount": 0
+                },
+                "Subscription": {
+                    "SubscriptionProgramID": 0,
+                    "SubscriptionOnly": false,
+                    "SubscriptionOrderFrequency": 0,
+                    "SubscriptionPriceDiscountRate": 0.0,
+                    "SubscriptionIsFreeShipping":"
